@@ -5,6 +5,7 @@
 #include "../Include/Winheaders.h"
 
 #include <map>
+#include <string>
 
 #pragma warning(disable : 4091)
 #include <cor.h>
